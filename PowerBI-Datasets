@@ -1,0 +1,15 @@
+📦 Your-PowerBI-Datasets/
+ ├── 📂 datasets/
+ │   ├── 📂 Amazon_Prime/
+ │   │   ├── amazon_prime_titles.csv.zip
+ │   ├── 📂 SuperStore_Sales/
+ │   │   ├── SuperStore_Sales_Dataset.csv
+ │   │   ├── SuperStore Sales DataSet.xlsx
+ │   ├── 📂 Orders_Data/
+ │   │   ├── Orders.csv
+ │   │   ├── Details.csv
+ ├── 📜 README.md
+ ├── 📜 Amazon_Prime_Analysis.pbix
+ ├── 📜 SuperStore_Dashboard.pbix
+ ├── 📜 Orders_Analysis.pbix
+
