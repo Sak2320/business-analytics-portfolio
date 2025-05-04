@@ -24,8 +24,4 @@ Download the Amazon prime analysis.pbix file.
 Open it in Microsoft Power BI Desktop.
 Explore different dashboards, reports, and filters to analyze the data.
 
-## 🧩 Key Features
-- **Top Genres**: Identifies the most-watched genres by watch time
-- **User Segmentation**: Breakdown of viewer data by location and age group
-- **Content Popularity**: Top-rated and most-watched shows/movies
-- **Engagement Trends**: Analysis of daily, weekly, and monthly watch time patterns
+
