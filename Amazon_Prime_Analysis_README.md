@@ -4,8 +4,9 @@ This project analyzes Amazon Prime data using Power BI to uncover insights relat
 
 📂 Files in This Repository
 Amazon prime analysis.pbix – Power BI report containing data visualizations and insights.
-Datasets (if applicable) – Source data used for analysis.
-Screenshots (if needed) – Key dashboard visuals.
+Datasets  – Source data used for analysis.
+Screenshots  – Key dashboard visuals.
+
 🔍 Key Insights & Features
 ✅ Content breakdown by genre, release year, and region
 ✅ User engagement trends (watch time, ratings, etc.)
@@ -17,12 +18,14 @@ Screenshots (if needed) – Key dashboard visuals.
 Power BI – Data visualization & reporting
 DAX (Data Analysis Expressions) – Used for calculated measures
 SQL (if applicable) – Data extraction and preprocessing
+
 📌 How to Use This Report?
 Download the Amazon prime analysis.pbix file.
 Open it in Microsoft Power BI Desktop.
 Explore different dashboards, reports, and filters to analyze the data.
 
-💡 Future Enhancements
-🔹 Add more KPIs and advanced analytics (e.g., forecasting).
-🔹 Integrate external data sources for a comprehensive view.
-🔹 Automate data refresh using Power BI service.
+## 🧩 Key Features
+- **Top Genres**: Identifies the most-watched genres by watch time
+- **User Segmentation**: Breakdown of viewer data by location and age group
+- **Content Popularity**: Top-rated and most-watched shows/movies
+- **Engagement Trends**: Analysis of daily, weekly, and monthly watch time patterns
